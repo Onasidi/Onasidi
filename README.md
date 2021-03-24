@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Onasidi
+- 👀 I’m interested in data science for big data projects on waste management
+- 🌱 I’m currently learning for data science at Harvard University courses
+- 💞️ I’m looking to collaborate on data science projects
+- 📫 You can reach me mailing to excima@gmail.com 
